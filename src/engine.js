@@ -102,7 +102,7 @@ export function determineResult(userLevels, dimOrder, standardTypes, specialType
     }
   }
 
-  // 傻乐者兜底
+  // 薛定谔兜底
   if (best.similarity < 60 && hhhh) {
     return {
       primary: { ...hhhh, similarity: best.similarity, exact: best.exact },
