@@ -6,7 +6,7 @@
 
 ## 在线体验
 
-👉 [点击开始测试](https://pingfanfan.github.io/SBTI/)
+👉 [点击开始测试](https://linmaoyhs-alt.github.io/BWTI/)
 
 ## 特性
 
