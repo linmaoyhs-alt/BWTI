@@ -1,6 +1,6 @@
-# SBTI 人格测试
+# BWTI 人格测试
 
-> MBTI已经过时，SBTI来了。
+> SBTI已经过时，BWTI来了。
 
 一个开源的娱乐性人格测试项目，基于 B站UP主 [@蛆肉儿串儿](https://space.bilibili.com/417038183) 的原创测试。
 
